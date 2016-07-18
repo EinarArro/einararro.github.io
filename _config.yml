@@ -1,0 +1,4 @@
+name: Einar Arro
+markdown: kramdown
+gems:
+  - jekyll-sitemap
